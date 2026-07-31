@@ -3,7 +3,7 @@
 
 <h3 align="center">
 💻 B.Tech CSE (Data Science) Student <br>
-📊 Aspiring Data Analyst | 📈 Future Data Scientist
+📊 Aspiring Data Analyst 
 </h3>
 
 <p align="center">
