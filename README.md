@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Sourabh Naik</h1>
 
 <h3 align="center">💻 B.Tech CSE (Data Science) Student | 📊 Aspiring Data Analyst | 🇮🇳 India</h3>
@@ -143,4 +142,3 @@
 If you like my repositories, don't forget to **Star ⭐** them.
 
 </p>
-```
