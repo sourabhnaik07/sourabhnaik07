@@ -17,10 +17,6 @@ Passionate about transforming data into meaningful insights through analytics, v
   <img src="https://img.shields.io/github/stars/sourabhnaik07?affiliations=OWNER&style=social" alt="GitHub Stars"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+%7C+SQL+%7C+Power+BI;Data+Analytics+%7C+Machine+Learning;Always+Learning+Something+New+🚀" alt="Typing SVG"/>
-</p>
-
 ---
 
 ## 🚀 About Me
