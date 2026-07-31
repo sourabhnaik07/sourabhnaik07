@@ -1,23 +1,146 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Sourabh Naik</h1>
-<h3 align="center">A passionate data analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhnaik07&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhnaik07" /> </p>
+<h3 align="center">💻 B.Tech CSE (Data Science) Student | 📊 Aspiring Data Analyst | 🇮🇳 India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourabhnaik07" alt="sourabhnaik07" /></a> </p>
-
-- 🌱 I’m currently learning **B tech CSE ( data science)**
-
-- 📫 How to reach me **sourbhnaik262@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sourabhnaik07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhnaik07&show_icons=true&locale=en&layout=compact" alt="sourabhnaik07" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhnaik07&show_icons=true&locale=en" alt="sourabhnaik07" /></p>
+- 🎓 B.Tech CSE (Data Science) Student
+- 📊 Passionate about **Data Analytics, Data Science & AI**
+- 🌱 Currently learning:
+  - Python
+  - SQL
+  - Data Structures & Algorithms
+  - R Programming
+  - Power BI
+  - Machine Learning
+- 💡 Interested in solving real-world problems using data
+- 🎯 Goal: Become a **Data Analyst** and later a **Data Scientist**
+- ⚡ Fun Fact: I love learning new technologies and building projects.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhnaik07&" alt="sourabhnaik07" /></p>
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+
+<a href="https://www.python.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+</a>
+
+<a href="https://isocpp.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+</a>
+
+<a href="https://www.cprogramming.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+</a>
+
+<a href="https://www.java.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+</a>
+
+<a href="https://www.r-project.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="45"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+</a>
+
+<a href="https://www.w3.org/html/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+</a>
+
+<a href="https://www.w3schools.com/css/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+</a>
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- SQL
+- Python for Data Analysis
+- Pandas & NumPy
+- Power BI
+- Machine Learning
+- Git & GitHub
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sourabhnaik07&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhnaik07&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhnaik07&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sourabhnaik07&theme=algolia&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+## 📌 Featured Projects
+
+- ☕ Cafe Management System (C++)
+- 📊 Power BI Dashboard
+- 📈 Data Analysis Projects
+- 🐍 Python Mini Projects
+- 💾 SQL Practice Projects
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** **sourbhnaik262@gmail.com**
+
+---
+
+## 💬 Quote
+
+> **"Data is the new oil, but insight is the real fuel."**
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+If you like my repositories, don't forget to **Star ⭐** them.
+
+</p>
+```
