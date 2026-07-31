@@ -1,9 +1,25 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Sourabh Naik</h1>
 
-<h3 align="center">💻 B.Tech CSE (Data Science) Student | 📊 Aspiring Data Analyst | 🇮🇳 India</h3>
+<h3 align="center">
+💻 B.Tech CSE (Data Science) Student <br>
+📊 Aspiring Data Analyst | 📈 Future Data Scientist
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sourabhnaik07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+Passionate about transforming data into meaningful insights through analytics, visualization, and machine learning.
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=sourabhnaik07">
+    <img src="https://komarev.com/ghpvc/?username=sourabhnaik07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <img src="https://img.shields.io/github/followers/sourabhnaik07?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/sourabhnaik07?affiliations=OWNER&style=social" alt="GitHub Stars"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+%7C+SQL+%7C+Power+BI;Data+Analytics+%7C+Machine+Learning;Always+Learning+Something+New+🚀" alt="Typing SVG"/>
 </p>
 
 ---
@@ -61,10 +77,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
 </a>
 
-<a href="https://code.visualstudio.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
-</a>
-
 <a href="https://www.w3.org/html/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
 </a>
@@ -81,11 +93,10 @@
 
 - Data Structures & Algorithms
 - SQL
-- Python for Data Analysis
-- Pandas & NumPy
+- Python for Data Analysis & Visualization 
+- Pandas , NumPy , Matplotlib & Seaborn
 - Power BI
 - Machine Learning
-- Git & GitHub
 
 ---
 
@@ -103,23 +114,19 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Featured Projects
 
-<p align="center">
+### 🏏 IPL Auction Analysis
+- Analyzed IPL auction datasets using Python, Pandas, and data visualization techniques to uncover player and team spending insights.
 
-<img src="https://github-profile-trophy.vercel.app/?username=sourabhnaik07&theme=algolia&margin-w=10&margin-h=10"/>
+### 💼 Interview Preparation Website
+- A platform for students to prepare for placements with company-wise interview questions and technical resources.
 
-</p>
+### 📊 Motorola Sales Power BI Dashboard
+- Built an interactive Power BI dashboard to analyze Motorola sales performance, KPIs, regional trends, and business insights.
 
----
-
-## 📌 Featured Projects
-
-- ☕ Cafe Management System (C++)
-- 📊 Power BI Dashboard
-- 📈 Data Analysis Projects
-- 🐍 Python Mini Projects
-- 💾 SQL Practice Projects
+### 📚 Book Summary Website
+- Developed a responsive website using HTML & CSS to display concise summaries of popular books.
 
 ---
 
@@ -142,3 +149,4 @@
 If you like my repositories, don't forget to **Star ⭐** them.
 
 </p>
+```
