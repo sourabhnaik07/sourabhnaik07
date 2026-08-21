@@ -95,20 +95,6 @@ Passionate about transforming data into meaningful insights through analytics, v
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sourabhnaik07&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhnaik07&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhnaik07&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🏏 IPL Auction Analysis
