@@ -117,7 +117,7 @@ Passionate about transforming data into meaningful insights through analytics, v
 ### 💼 Interview Preparation Website
 - A platform for students to prepare for placements with company-wise interview questions and technical resources.
 
-### 📊 Motorola Sales Power BI Dashboard
+### 📊 Mobile Sales Power BI Dashboard
 - Built an interactive Power BI dashboard to analyze Motorola sales performance, KPIs, regional trends, and business insights.
 
 ### 📚 Book Summary Website
